@@ -1,7 +1,7 @@
 Programas em Java Desenvolvido a partir do livro "Java como Programar 8" <br />
 
 1 - Para compilar todos os arquivos .java na mesma pasta rode "javac *.java" (Sem as aspas) <br />
-2 - Para executar rode "java NomeDaClasse" (Sem as aspas)
+2 - Para executar rode "java NomeDaClasse.java" (Sem as aspas)
 
 É necessario o JDK para realizar essas ações. Você pode instalar rodando "sudo apt install default-jdk" no terminal ou baixar no site da Oracle nesse link: https://www.oracle.com/java/technologies/javase-jdk11-downloads.html
 
