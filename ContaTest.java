@@ -1,4 +1,4 @@
-/* Autor: Rafael Alves Barbosa
+/* Autor: Elf1995
    Data & hora da última modificação: 25/08/2021 - 03:21
    Objetivo: Capturar e exibir o nome da conta do usuário
 */
