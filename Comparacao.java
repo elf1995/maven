@@ -1,6 +1,6 @@
 /*
  *
- * Autor: Rafael Alves Barbosa
+ * Autor: Elf1995
  * Começo do Desenvolvimento: 01/08/2021
  * Última Modificação: 20:47 01/08/2021
  * Finalidade: Comparar dois números inteiros
