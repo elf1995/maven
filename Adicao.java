@@ -1,6 +1,6 @@
 /*
 *
-* Autor: Rafael Alves Barbosa
+* Autor: Elf1995
 * Começo do Desenvolvimento: 30/07/2021
 * Última Modificação: 21:58 01/08/2021
 * Finalidade: Programa de adição que calcula a soma de dois números e exibe na tela
