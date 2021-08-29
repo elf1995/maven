@@ -8,4 +8,4 @@ Programas em Java Desenvolvido a partir do livro "Java como Programar 8" <br />
 E seguir as instruções no link abaixo:
 https://docs.oracle.com/en/java/javase/11/install/installation-jdk-linux-platforms.html#GUID-19D58769-FD72-4353-A935-40FCD82A7A81
 
-OBS: O programa Conta.java e ContaTest.java só podem ser executados em uma IDE.
+OBS: O programa Conta.java e ContaTest.java só podem ser executados em uma IDE como o VSCODE.
